@@ -18,6 +18,7 @@ public class Arr {
 		{
 			System.out.print(arr[i] + " ");
 		}
+		System.out.println(" this is how I am learning java");
 			
 
 	}
