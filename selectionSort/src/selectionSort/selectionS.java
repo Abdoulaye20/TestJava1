@@ -34,7 +34,7 @@ public class selectionS {
 		System.out.println("The array after sorting is :");
 		for(i=0; i <size; i++)
 		{
-			System.out.println(arr[i] + " ");
+			System.out.print(arr[i] + " ");
 		}
 
 	}
